@@ -1,0 +1,4 @@
+repository "Yaminabe-2026@AREA35Inc@cloud"
+  path "/"
+    br "/main"
+    co "/main"
